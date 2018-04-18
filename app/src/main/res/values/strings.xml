@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vibrator</string>
+    <string name="xValue">Valeur de X</string>
+    <string name="yValue">Valeur de Y</string>
+    <string name="zValue">Valeur de Z</string>
+
+</resources>
